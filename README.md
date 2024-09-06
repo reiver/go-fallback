@@ -1,6 +1,6 @@
 # go-fallback
 
-Package **fallback** implements an **fallbackional-type**, for the Go programming language.
+Package **fallback** provides tool todefault to a contingency-value, for the Go programming language.
 
 ## Documention
 
